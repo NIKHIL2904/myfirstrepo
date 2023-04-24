@@ -13,9 +13,13 @@ Getting Started
 To get started with this repository, you can follow these steps:
 
 1.Clone the repository to your local machine using the command: git clone https://github.com/your-username/your-repository.git
+
 2.Make changes to the files in the repository as needed.
+
 3.Add the changes using the command: git add .
+
 4.Commit the changes using the command: git commit -m "your commit message"
+
 5.Push the changes to GitHub using the command: git push origin main
 
 Contributing
@@ -23,4 +27,5 @@ Contributing
 If you find any issues with the repository, or if you have any suggestions for improvement, feel free to create an issue or submit a pull request.
 
 License
+
 This repository is licensed under the MIT License.
